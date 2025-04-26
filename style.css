@@ -3,7 +3,8 @@ p{
 }
 
 body{
-    background-image: url(Fundo_Site.png); 
+    background-image: url(Fundo_Site.png);
+    background-size: cover; 
 }
 
 #titulo{
